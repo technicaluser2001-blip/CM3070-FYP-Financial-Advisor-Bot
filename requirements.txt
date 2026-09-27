@@ -1,0 +1,24 @@
+# Web application framework
+streamlit
+
+# Data acquisition and manipulation
+yfinance
+pandas
+numpy
+
+# Technical indicators (MA, RSI, Bollinger Bands)
+ta
+
+# Charting
+plotly
+
+# Machine learning
+scikit-learn
+xgboost          # required to load model.pkl, even though not imported directly
+joblib           # loads the saved model and scaler
+
+# Backtesting engine
+backtrader
+
+# Local language model client (requires the Ollama application, see README)
+ollama
