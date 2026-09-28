@@ -1,4 +1,4 @@
-#CM3070 Final Project Financial Advisor Bot Feature Prototype
+#CM3070 Final Project Financial Advisor Bot
 #Run with streamlit run dashboard.py
 
 import streamlit as st
@@ -301,7 +301,7 @@ st.markdown(
 # UI
 # ---------------------------------------------------------------------------
 st.title("📈 Financial Advisor Bot")
-st.caption("CM3070 Final Project Financial Advisor Bot Feature Prototype")
+st.caption("CM3070 Final Project Financial Advisor Bot")
 
 # Sidebar
 with st.sidebar:
